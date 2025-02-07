@@ -36,3 +36,7 @@ Dataset Used: ipl_data.csv
 * stricker - batsman playing as main 1
 * non-striker - batsman playing as runner up - not main 0
 * total - total score (target variable)
+
+# To run the code
+After Installing requirements <br>
+Open cmd in directory And type - streamlit run app.py
